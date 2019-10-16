@@ -20,6 +20,10 @@ body,
   z-index: 200;
 }
 
+.message__image {
+  padding: 1em;
+}
+
 .message__self {
   border-left: 2px solid orange;
   padding-left: 8px;
